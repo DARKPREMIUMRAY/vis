@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-    Name = "Dark Spawner
+    Name = "Qxior Dupe",
     Icon = 0,
     LoadingTitle = "Dupe",
-    LoadingSubtitle = "by Dark",
+    LoadingSubtitle = "by Qxior",
     Theme = "Default",
     DisableRayfieldPrompts = false,
     DisableBuildWarnings = false,
